@@ -11,4 +11,6 @@ As a result of my work, I would like to get some money and I see such ways:
   * Any copyleft license - $ 100,000;
   * Private ownership    - $ 120,000.
   
- For purchase questions, send me email to ycherkes@outlook.com
+ For purchase questions, email me to ycherkes@outlook.com
+ 
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
