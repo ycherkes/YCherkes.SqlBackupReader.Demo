@@ -5,7 +5,7 @@ The license and distribution method for the full version of this plugin are not 
 
 The demo version is obfuscated, limited only by the uncompressed backup format and will be valid until June 29, 2020.
 
-As a result of my work, I would like to get some money and see such ways:
+As a result of my work, I would like to get some money and I see such ways:
 
   * MIT license          - $ 85,000;
   * Any copyleft license - $ 100,000;
