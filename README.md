@@ -1,7 +1,7 @@
 # YCherkes.SqlBackupReader.Demo
 A binaries of https://github.com/ycherkes/OrcaSql with a demo version of Sql Backup Reader plugin
 
-The license and distribution method for the full version of this plugin are not yet defined.
+The license and distribution method for the full version of this plugin and source code are not yet defined.
 
 The demo version is obfuscated, limited only by the uncompressed backup format and will be valid until June 29, 2020.
 
