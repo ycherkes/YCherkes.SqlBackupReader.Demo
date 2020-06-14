@@ -1,5 +1,5 @@
 # YCherkes.SqlBackupReader.Demo
-A binaries of https://github.com/ycherkes/OrcaSql with a demo version of Sql Backup Reader plugin
+A binaries of https://github.com/ycherkes/OrcaSql with a demo version of Sql Backup Reader plugin.
 
 The license and distribution method for the full version of this plugin and source code are not yet defined.
 
