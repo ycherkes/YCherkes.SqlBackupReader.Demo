@@ -13,16 +13,16 @@ As a result of my work, I would like to get some money and I see such ways:
   
 Please email me with any suggestions to ycherkes@outlook.com
 
-What full version of plugin supports:
+What the full version of plugin supports:
  * full database backups;
  * only first backup from the backup set;
  * uncompressed backups;
  * compressed backups (v1 and v2, v2 version could be optimized in future by using an additional 20 bytes of information before each compressed block of data);
  * multiple Sql data files identification.
  
- What full version of plugin doesn't support now:
+ What the full version of the plugin does not support now:
   * corrupted backups;
-  * differantial backups;
+  * differential backups;
   * more than one backup from the backup set - it reads only the first one;
   * FileStreams;
   * encrypted backups;
