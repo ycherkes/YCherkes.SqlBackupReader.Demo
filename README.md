@@ -11,6 +11,22 @@ As a result of my work, I would like to get some money and I see such ways:
   * Any copyleft license - $ 100,000;
   * Private ownership    - $ 120,000.
   
- For purchase questions, email me to ycherkes@outlook.com
+Please email me with any suggestions to ycherkes@outlook.com
+
+What full version of plugin supports:
+ * full database backups;
+ * only first backup from the backup set;
+ * uncompressed backups;
+ * compressed backups (v1 and v2, v2 version could be optimized in future by using an additional 20 bytes of information before each compressed block of data);
+ * Sql data files identification.
  
- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+ What full version of plugin doesn't support now:
+  * differantial backups;
+  * more than one backup from the backup set;
+  * FileStreams;
+  * encrypted backups;
+  * Sql log file identification;
+  
+Plugin features can be improved based on an additional contract.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
