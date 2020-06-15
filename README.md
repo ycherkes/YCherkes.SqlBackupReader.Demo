@@ -21,8 +21,9 @@ What full version of plugin supports:
  * multiple Sql data files identification.
  
  What full version of plugin doesn't support now:
+  * corrupted backups;
   * differantial backups;
-  * more than one backup from the backup set;
+  * more than one backup from the backup set - it reads only the first one;
   * FileStreams;
   * encrypted backups;
   * Sql log file identification;
