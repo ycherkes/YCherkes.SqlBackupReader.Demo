@@ -18,7 +18,7 @@ What full version of plugin supports:
  * only first backup from the backup set;
  * uncompressed backups;
  * compressed backups (v1 and v2, v2 version could be optimized in future by using an additional 20 bytes of information before each compressed block of data);
- * Sql data files identification.
+ * Multiple Sql data files identification.
  
  What full version of plugin doesn't support now:
   * differantial backups;
