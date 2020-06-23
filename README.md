@@ -11,7 +11,7 @@ As a result of my work, I would like to get some money and I see such ways:
   * Any copyleft license - $ 100,000;
   * Private ownership    - $ 120,000.
   
-Please email me with any suggestions to ycherkes@outlook.com
+Please email me with any suggestions to ycherkes@outlook.com or contact with me via [LinkedIn](https://www.linkedin.com/in/yevhen-cherkes-68291771/)
 
 What the full version of plugin supports:
  * full database backups;
