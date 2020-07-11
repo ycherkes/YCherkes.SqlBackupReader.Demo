@@ -3,14 +3,16 @@ A binaries of https://github.com/ycherkes/OrcaSql with a demo version of Sql Bac
 
 The license and distribution method for the full version of this plugin and source code are not yet defined.
 
-The demo version is obfuscated, limited only by the uncompressed backup format and will be valid until July 17, 2020.
+The demo version is obfuscated, limited only by the uncompressed backup format.
 
-As a result of my work, I would like to get some money and I see such ways:
+You may use a demo version for non-commercial purposes only.
+
+The source code for this plugin can be sold at the following price:
 
   * MIT license          - $ 85,000;
   * Any copyleft license - $ 100,000;
   * Private ownership    - $ 120,000.
-  
+
 Please email me with any suggestions to ycherkes@outlook.com or contact with me via [LinkedIn](https://www.linkedin.com/in/yevhen-cherkes-68291771/)
 
 What the full version of plugin supports:
