@@ -7,12 +7,6 @@ The demo version is obfuscated, limited only by the uncompressed backup format.
 
 You may use a demo version for non-commercial purposes only.
 
-The source code for this plugin can be sold at the following price:
-
-  * MIT license          - $ 85,000;
-  * Any copyleft license - $ 100,000;
-  * Private ownership    - $ 120,000.
-
 Please email me with any suggestions to ycherkes@outlook.com or contact with me via [LinkedIn](https://www.linkedin.com/in/yevhen-cherkes-68291771/)
 
 What the full version of plugin supports:
